@@ -1,0 +1,27 @@
+RegDst
+
+Branch
+
+ALUSrc 
+
+MemtoReg
+
+ALUOP1
+
+ALUOP0
+
+MemRead 
+
+MemWrit 
+
+Reg Write 
+
+add 1,0,0,0,1,0,0,0,1
+
+ori 1,0,0,0,0,1,0,0,1
+
+sw X , 0 , 1 , X , 0 , 0 , 0 , 1 ,0
+
+slt  1,1,0,0,1,1,0,0,1
+
+beq X , 1 , 0 , X, 0 , 1, 0 , 0, , 0
